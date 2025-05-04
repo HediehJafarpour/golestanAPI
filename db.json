@@ -1,0 +1,223 @@
+{
+  "header": [
+    { "id": 0, "name": "Home", "dropdown": [] },
+    {
+      "id": 1,
+      "name": "about us",
+      "dropdown": [
+        { "id": 0, "name": "abaut golestan" },
+        { "id": 1, "name": "our history" },
+        { "id": 2, "name": "golestan CSR" },
+        { "id": 3, "name": "sales" },
+        { "id": 4, "name": "distrribution" },
+        { "id": 5, "name": "careers" }
+      ]
+    },
+    { "id": 2, "name": "brands", "dropdown": [] },
+    {
+      "id": 3,
+      "name": "products",
+      "dropdown": [
+        { "id": 0, "name": "tea" },
+        { "id": 1, "name": "pistachios" },
+        { "id": 2, "name": "spices" },
+        { "id": 3, "name": "srice" },
+        { "id": 4, "name": "saffaron" },
+        { "id": 5, "name": "herbal tea" },
+        { "id": 6, "name": "grains" },
+        { "id": 7, "name": "sugar" },
+        { "id": 8, "name": "others" },
+        { "id": 9, "name": "hotiKara product" }
+      ]
+    },
+    { "id": 4, "name": "contact us", "dropdown": [] },
+    { "id": 5, "name": "FA", "dropdown": [] }
+  ],
+  "numbers": [
+    { "id": 1, "title": "employees", "link": "../public/images/numbers/1.jpg" },
+    { "id": 2, "title": "retailers", "link": "../public/images/numbers/2.jpg" },
+    { "id": 3, "title": "products", "link": "../public/images/numbers/3.jpg" },
+    { "id": 4, "title": "Consumers", "link": "../public/images/numbers/4.jpg" }
+  ],
+  "blog": [
+    {
+      "id": 0,
+      "title": "rice",
+      "link": "../public/images/blog/image1.jpg",
+      "name": "golestan rice",
+      "info": "Iranian rice is the most prime in the world. Tarem and Hashemi are the two most popular rice brands in the country. Tarem and Hashemi rice is grown in the best rice fields in the province of Mazandaran and after its quality is tested in Golestan laboratories, it is packed and sold. The smell and taste of Golestan rice are not comparable with those of rice produced by other companies."
+    },
+    {
+      "id": 1,
+      "title": "tea",
+      "link": "../public/images/blog/image2.jpg",
+      "name": "golestan tea",
+      "info": "Sourced from the best tea estates on the banks of Brahmaputra River in Assam and Darjeeling, India, Golestan teas possess the smell and taste of traditional Indian teas."
+    },
+    {
+      "id": 2,
+      "title": "pistachio",
+      "link": "../public/images/blog/image3.jpg",
+      "name": "golestan pistachio",
+      "info": "Pistachios are a rich source of vitamins and minerals which help protect heart and arteries. Other health benefits of pistachios include improved digestion, weight management, protection against diabetes and hypertension. Golestan pistachios are harvested from the best pistachio farms in Iran and then go through quality control in our laboratory. They are then roasted using saffron and salt."
+    }
+  ],
+  "footer": [
+    {
+      "id": 0,
+      "link": "../public/images/footer-icon1.png",
+      "name": "golestan Beans",
+      "items": [
+        "golestan peas",
+        "navy beans",
+        "pinto beans",
+        "lentil",
+        "kindey beans"
+      ]
+    },
+    {
+      "id": 1,
+      "link": "../public/images/footer-icon2.png",
+      "name": "golestan spices",
+      "items": [
+        "saffron",
+        "turmeric",
+        "black pepper",
+        "garlik powder",
+        "curry seasoning"
+      ]
+    },
+    {
+      "id": 2,
+      "link": "../public/images/footer-icon3.png",
+      "name": "golestan tea bag",
+      "items": [
+        "black line tea bag",
+        "earl gray tea bag",
+        "mint herbal tea",
+        "chamomile tea",
+        "borage herbal tea"
+      ]
+    },
+    {
+      "id": 3,
+      "link": "../public/images/footer-icon4.png",
+      "name": "golestan Beans",
+      "items": [
+        "premium indian tea",
+        "earl grey tea",
+        "vlack line",
+        "ceylon tea",
+        "breakfast tea"
+      ]
+    }
+  ],
+  "Brands": [
+    {
+      "id": 0,
+      "link": "../public/images/brands/golestan-logo.png",
+      "name": "golestan",
+      "bg":"#FF0000"
+    },
+    {
+      "id": 1,
+      "link": "../public/images/brands/pardis.jpg",
+      "name": "pardis",
+      "bg":"#27AA41"
+    },
+    {
+      "id": 2,
+      "link": "../public/images/brands//brand-hotikara.png",
+      "name": "hotikara",
+      "bg":"#FF0000"
+    },
+    {
+      "id": 3,
+      "link": "../public/images/brands/1.jpg",
+      "name": "golkis",
+      "bg":"#FF0000"
+    },
+    {
+      "id": 4,
+      "link": "../public/images/brands//twinings2.jpg",
+      "name": "twinings",
+      "bg":"#B29E6A"
+    }
+    
+  ],
+  "Products": [
+    {
+      "id": 0,
+      "link": "../public/images/products/tea.png",
+      "name": "Golestan Tea",
+      "bg": "#CCE4B0"
+    },
+    {
+      "id": 1,
+      "link": "../public/images/products/Nuts.png",
+      "name": "Golestan Nuts",
+      "bg": "#0F5153"
+    },
+    {
+      "id": 2,
+      "link": "../public/images/products/spice.png",
+      "name": "Golestan Seasoning",
+      "bg": "#DADADA"
+    },
+    {
+      "id": 3,
+      "link": "../public/images/products/rice.png",
+      "name": "Golestan rice",
+      "bg": "#FFFF"
+    },
+    {
+      "id": 4,
+      "link": "../public/images/products/saffron.png",
+      "name": "Saffron & Barberry",
+      "bg": "#CCE4B0"
+    },
+    {
+      "id": 7,
+      "link": "../public/images/products/damnosh-2-1.png",
+      "name": "Herbal Tea",
+      "bg": "#0F5153"
+    },
+    {
+      "id": 5,
+      "link": "../public/images/products/hobobat.png",
+      "name": "Golestan Grains",
+      "bg": "#FFFF"
+    },
+    {
+      "id": 6,
+      "link": "../public/images/products/ghand.png",
+      "name": "Golestan Pistachio",
+      "bg": "#CCE4B0"
+    },
+    {
+      "id": 8,
+      "link": "../public/images/products/keshmesh.png",
+      "name": " Others",
+      "bg": "#DADADA"
+    },
+    {
+      "id": 9,
+      "link": "../public/images/products/Twinings-tea-2-LadyGrey.png",
+      "name": "Twinings products",
+      "bg": "#FFFF"
+    },
+
+    {
+      "id": 10,
+      "link": "../public/images/products/Logo-01-1.png",
+      "name": "HotiKara",
+      "bg": "#CDE4B0"
+    },
+    {
+      "id": 11,
+      "link": "../public/images/products/golkis.png",
+      "name": "Golkis Tea",
+      "bg": "#0F5153"
+    }
+  ]
+}
